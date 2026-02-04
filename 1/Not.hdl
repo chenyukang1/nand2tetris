@@ -12,5 +12,6 @@ CHIP Not {
 
     PARTS:
     //// Replace this comment with your code.
+    // a and a = a
     Nand (a=in, b=in, out=out);
 }

@@ -25,3 +25,9 @@ Project地址 https://www.nand2tetris.org
   - Mux8Way16(16位8选1选择器)
   - DMux4Way(解4路复用)
   - DMux8Way(解8路复用)
+
+## Project 2
+布尔运算
+- 半加法器、全加法器、16位加法器
+- 增量器
+- ALU
